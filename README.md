@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>My Webpage</title>
+        <title>Lauren's Webpage (:</title>
     </head>
     <body>
         Hello, world!
